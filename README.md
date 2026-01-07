@@ -1,4 +1,4 @@
-# React Context Sample (Vite + React 19)
+# React 19.2 - Lesson 23 - Passing Data Deeply with Context
 
 A tiny project to learn and practice:
 - Lifting state up
